@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriaodemakin
-- 👀 I’m interested in frontend development/ wordpress developmeny
+- 👀 I’m interested in frontend development/ wordpress development
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me @victoriaodemakin@gmail.com
